@@ -1,2 +1,2 @@
 # MH_cash_deployment
-Morgan Housel's cash deployment strategy backtesting
+Backtesting a cash deployment strategy at various market drawdown points in the Indian context.
